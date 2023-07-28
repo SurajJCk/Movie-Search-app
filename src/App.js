@@ -11,13 +11,13 @@ const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=9cd75262';
 
 
   
-// const movie1 = {
-//         "Title": "Captain America: The Winter Soldier",
-//         "Year": "2014",
-//         "imdbID": "tt1843866",
-//         "Type": "movie",
-//         "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg"
-//       }
+const movie1 = {
+        "Title": "Captain America: The Winter Soldier",
+        "Year": "2014",
+        "imdbID": "tt1843866",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg"
+      }
 
 
 const App = () => {
